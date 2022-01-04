@@ -1,0 +1,4 @@
+2021-10-19 18:01:17,422 266  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-19 18:01:17,428 272  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_19_2021_18_01_17
+2021-10-19 18:01:17,548 392  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-19 18:01:24,005 6849 [main] INFO  tyss_JobPortalWeb.TC002_Authentication - null Token is generated

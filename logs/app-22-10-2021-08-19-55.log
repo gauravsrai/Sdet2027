@@ -1,0 +1,95 @@
+2021-10-22 08:19:55,752 235  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-22 08:19:55,979 462  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 08:19:55,981 464  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_22_2021_08_19_55
+2021-10-22 08:19:56,073 556  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 08:19:59,945 4428 [main] INFO  tyss_JobPortalWebPractice2.TC001_SignUp - Gaurav registered successfully
+2021-10-22 08:20:02,162 6645 [main] INFO  tyss_JobPortalWebPractice2.TC002_Authentication - Token Generated eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJHYXVyYXYiLCJleHAiOjE2MzQ4NzgyMDIsImlhdCI6MTYzNDg3MTAwMn0.MdOKQfiGq9O_DNEVWfX4R3e5XToglmsVxahy_ohtWNw6YLWre4Ka9vwANqn2tK9sJlQ9z2kYl9WLC6AOdgCFMw
+2021-10-22 08:20:02,178 6661 [main] INFO  tyss_JobPortalWebPractice2.TC002_Authentication - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJHYXVyYXYiLCJleHAiOjE2MzQ4NzgyMDIsImlhdCI6MTYzNDg3MTAwMn0.MdOKQfiGq9O_DNEVWfX4R3e5XToglmsVxahy_ohtWNw6YLWre4Ka9vwANqn2tK9sJlQ9z2kYl9WLC6AOdgCFMw written in token.json file
+2021-10-22 08:20:03,683 8166 [main] INFO  t.TC003_GetAllJobDescription - [
+    {
+        "jobId": 1,
+        "jobTitle": "Software Engg",
+        "jobDescription": "To develop andriod application",
+        "experience": [
+            "Google",
+            "Apple",
+            "Mobile Iron"
+        ],
+        "project": [
+            {
+                "projectName": "Movie App",
+                "technology": [
+                    "Kotlin",
+                    "SQL Lite",
+                    "Gradle"
+                ]
+            }
+        ]
+    }
+]
+2021-10-22 08:20:05,165 9648 [main] INFO  tyss_JobPortalWebPractice2.TC004_AddJobDetails - Job Created With Job Title Automation
+2021-10-22 08:20:05,166 9649 [main] INFO  tyss_JobPortalWebPractice2.TC004_AddJobDetails - Job Details added Sucessfully
+2021-10-22 08:20:06,927 11410 [main] INFO  t.TC005_FindJobDescription - {
+    "jobId": 2021,
+    "jobTitle": "Automation",
+    "jobDescription": "SDET ENG",
+    "experience": [
+        "5 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "APPIUM"
+            ]
+        }
+    ]
+}
+2021-10-22 08:20:08,416 12899 [main] INFO  t.TC006_Update_PUT_Details - {
+    "jobId": 2021,
+    "jobTitle": "Manual",
+    "jobDescription": "Software Engineer",
+    "experience": [
+        "10 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "APPIUM"
+            ]
+        }
+    ]
+}
+2021-10-22 08:20:10,075 14558 [main] INFO  t.TC007_Update_PATCH_Details - {
+    "jobId": 2021,
+    "jobTitle": "Automation",
+    "jobDescription": "SDET Automation Engineer",
+    "experience": [
+        "10 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "APPIUM"
+            ]
+        }
+    ]
+}
+2021-10-22 08:20:11,644 16127 [main] INFO  tyss_JobPortalWebPractice2.TC008_DeleteJobDetails - {
+    "jobId": 2021,
+    "jobTitle": "Automation",
+    "jobDescription": "SDET Automation Engineer",
+    "experience": [
+        "10 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "APPIUM"
+            ]
+        }
+    ]
+}

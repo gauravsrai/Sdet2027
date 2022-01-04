@@ -1,0 +1,19 @@
+2021-10-22 08:06:59,476 211  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 08:06:59,480 215  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_22_2021_08_06_59
+2021-10-22 08:06:59,567 302  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 08:07:03,106 3841 [main] INFO  t.TC006_Update_PUT_Details - {
+    "jobId": 2021,
+    "jobTitle": "Manual",
+    "jobDescription": "Software Engineer",
+    "experience": [
+        "10 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "APPIUM"
+            ]
+        }
+    ]
+}

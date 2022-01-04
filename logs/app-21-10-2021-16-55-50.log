@@ -1,0 +1,4 @@
+2021-10-21 16:55:50,479 232  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-21 16:55:50,484 237  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_21_2021_16_55_50
+2021-10-21 16:55:50,576 329  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-21 16:55:54,497 4250 [main] ERROR tyss_JobPortalWebPractice2.TC002_Authentication - Unable to Sign Up To The Application

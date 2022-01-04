@@ -1,0 +1,19 @@
+2021-10-22 07:42:24,490 209  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 07:42:24,494 213  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_22_2021_07_42_24
+2021-10-22 07:42:24,584 303  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 07:42:28,583 4302 [main] INFO  t.TC005_FindJobDescription - {
+    "jobId": 2021,
+    "jobTitle": "Automation",
+    "jobDescription": "SDET ENG",
+    "experience": [
+        "5 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "APPIUM"
+            ]
+        }
+    ]
+}

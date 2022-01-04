@@ -1,0 +1,5 @@
+2021-10-19 15:21:58,416 265  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-19 15:21:58,647 496  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-19 15:21:58,649 498  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_19_2021_15_21_58
+2021-10-19 15:21:58,744 593  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-19 15:22:08,783 10632 [main] INFO  tyss_JobPortalWeb.TC002_Authentication - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJHYXVyYXYiLCJleHAiOjE2MzQ2NDQzMzMsImlhdCI6MTYzNDYzNzEzM30.1HVhe8BYm79CpKa50N4zV16tm6LV9NTgzaHPQ8WjX8KHeuJyFfxrZtfrRah95D0EoqTKBVORvyCBisRMkGbKJg Token is generated

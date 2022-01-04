@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" name="Demo">
+  <listeners>
+    <listener class-name="com.demo.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="1" name="Demo">
+    <classes>
+      <class name="tyss_JobPortalWebPractice2.TC001_SignUp"/>
+     <class name="tyss_JobPortalWebPractice2.TC002_Authentication"/>
+      <class name="tyss_JobPortalWebPractice2.TC003_GetAllJobDescription"/>
+       <class name="tyss_JobPortalWebPractice2.TC004_AddJobDetails"/> 
+       <class name="tyss_JobPortalWebPractice2.TC005_FindJobDescription"/>
+     <class name="tyss_JobPortalWebPractice2.TC006_Update_PUT_Details"/>
+      <class name="tyss_JobPortalWebPractice2.TC007_Update_PATCH_Details"/>
+       <class name="tyss_JobPortalWebPractice2.TC008_DeleteJobDetails"/> 
+    </classes>
+  </test> 
+</suite>

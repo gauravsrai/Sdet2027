@@ -1,0 +1,19 @@
+2021-10-22 08:17:04,681 232  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 08:17:04,686 237  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_22_2021_08_17_04
+2021-10-22 08:17:04,777 328  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 08:17:08,504 4055 [main] INFO  tyss_JobPortalWebPractice2.TC008_DeleteJobDetails - {
+    "jobId": 2021,
+    "jobTitle": "Automation",
+    "jobDescription": "SDET Automation Engineer",
+    "experience": [
+        "10 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "APPIUM"
+            ]
+        }
+    ]
+}

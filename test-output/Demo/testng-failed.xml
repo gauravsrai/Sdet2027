@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Demo]">
+  <listeners>
+    <listener class-name="com.demo.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="1" name="Demo(failed)">
+    <classes>
+      <class name="tyss_JobPortalWeb.TC004_AddJobDetails">
+        <methods>
+          <include name="createNode"/>
+          <include name="setExtentReport"/>
+          <include name="createFiles"/>
+          <include name="addJobDetails"/>
+        </methods>
+      </class> <!-- tyss_JobPortalWeb.TC004_AddJobDetails -->
+      <class name="tyss_JobPortalWeb.TC008_DeleteJobDetails">
+        <methods>
+          <include name="createNode"/>
+          <include name="setExtentReport"/>
+          <include name="createFiles"/>
+          <include name="deleteJobDetails"/>
+        </methods>
+      </class> <!-- tyss_JobPortalWeb.TC008_DeleteJobDetails -->
+      <class name="tyss_JobPortalWeb.TC005_FindJobDescription">
+        <methods>
+          <include name="createNode"/>
+          <include name="setExtentReport"/>
+          <include name="createFiles"/>
+          <include name="findJobDetails"/>
+        </methods>
+      </class> <!-- tyss_JobPortalWeb.TC005_FindJobDescription -->
+      <class name="tyss_JobPortalWeb.TC002_Authentication">
+        <methods>
+          <include name="createNode"/>
+          <include name="setExtentReport"/>
+          <include name="createFiles"/>
+          <include name="authentication"/>
+        </methods>
+      </class> <!-- tyss_JobPortalWeb.TC002_Authentication -->
+      <class name="tyss_JobPortalWeb.TC001_SignUp">
+        <methods>
+          <include name="signUp"/>
+          <include name="createNode"/>
+          <include name="setExtentReport"/>
+          <include name="createFiles"/>
+        </methods>
+      </class> <!-- tyss_JobPortalWeb.TC001_SignUp -->
+      <class name="tyss_JobPortalWeb.TC007_Update_PATCH_Details">
+        <methods>
+          <include name="createNode"/>
+          <include name="setExtentReport"/>
+          <include name="createFiles"/>
+          <include name="updateJobDetails"/>
+        </methods>
+      </class> <!-- tyss_JobPortalWeb.TC007_Update_PATCH_Details -->
+      <class name="tyss_JobPortalWeb.TC003_GetAllJobDescription">
+        <methods>
+          <include name="createNode"/>
+          <include name="setExtentReport"/>
+          <include name="createFiles"/>
+          <include name="getAllJobDescription"/>
+        </methods>
+      </class> <!-- tyss_JobPortalWeb.TC003_GetAllJobDescription -->
+      <class name="tyss_JobPortalWeb.TC006_Update_PUT_Details">
+        <methods>
+          <include name="createNode"/>
+          <include name="setExtentReport"/>
+          <include name="createFiles"/>
+          <include name="updateJobDetails"/>
+        </methods>
+      </class> <!-- tyss_JobPortalWeb.TC006_Update_PUT_Details -->
+    </classes>
+  </test> <!-- Demo(failed) -->
+</suite> <!-- Failed suite [Demo] -->

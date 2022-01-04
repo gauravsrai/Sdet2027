@@ -1,0 +1,4 @@
+2021-10-20 17:37:51,963 241  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-20 17:37:51,967 245  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_20_2021_17_37_51
+2021-10-20 17:37:52,094 372  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-20 17:37:56,163 4441 [main] INFO  t.TC003_GetAllJobDescription - Succesully Recieved All The Job Descriptions

@@ -1,0 +1,4 @@
+2021-10-20 16:40:37,750 239  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-20 16:40:37,755 244  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_20_2021_16_40_37
+2021-10-20 16:40:37,854 343  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-20 16:40:42,120 4609 [main] INFO  t.TC007_Update_PATCH_Details2 - Job Details Updated Successfully with jobTitle SDE Automation and jobDescription Automation

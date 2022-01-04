@@ -1,0 +1,4 @@
+2021-10-20 18:07:20,799 267  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-20 18:07:20,810 278  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_20_2021_18_07_20
+2021-10-20 18:07:20,934 402  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-20 18:07:26,822 6290 [main] INFO  tyss_JobPortalWebPractice.TC002_Authentication - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJHYXVyYXYiLCJleHAiOjE2MzQ3NDA2NTEsImlhdCI6MTYzNDczMzQ1MX0.kz727QxO5m9OzoKCXy00jxP494A72JVd6WhUJ6jMC0fLY4nNJbPajTItmrF880-miCjo_Xn2duce2ruOruc6aw written in token.json file

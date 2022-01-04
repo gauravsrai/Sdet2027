@@ -1,0 +1,41 @@
+2021-10-22 07:39:17,835 210  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 07:39:17,839 214  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_22_2021_07_39_17
+2021-10-22 07:39:17,931 306  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 07:39:21,627 4002 [main] INFO  t.TC003_GetAllJobDescription - [
+    {
+        "jobId": 1,
+        "jobTitle": "Software Engg",
+        "jobDescription": "To develop andriod application",
+        "experience": [
+            "Google",
+            "Apple",
+            "Mobile Iron"
+        ],
+        "project": [
+            {
+                "projectName": "Movie App",
+                "technology": [
+                    "Kotlin",
+                    "SQL Lite",
+                    "Gradle"
+                ]
+            }
+        ]
+    },
+    {
+        "jobId": 2021,
+        "jobTitle": "Automation",
+        "jobDescription": "SDET ENG",
+        "experience": [
+            "5 Years"
+        ],
+        "project": [
+            {
+                "projectName": "HCL",
+                "technology": [
+                    "APPIUM"
+                ]
+            }
+        ]
+    }
+]

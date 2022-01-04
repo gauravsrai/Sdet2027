@@ -1,0 +1,11 @@
+2021-10-20 09:01:57,457 205  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-20 09:01:57,681 429  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-20 09:01:57,682 430  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_20_2021_09_01_57
+2021-10-20 09:01:57,769 517  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-20 09:02:01,754 4502 [main] INFO  tyss_JobPortalWeb.TC001_SignUp - Gaurav registered successfully
+2021-10-20 09:02:04,421 7169 [main] INFO  tyss_JobPortalWeb.TC002_Authentication - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJHYXVyYXYiLCJleHAiOjE2MzQ3MDc5MjksImlhdCI6MTYzNDcwMDcyOX0.qC2nz6rMtVjUfS3X4JF9vJFHvS3D0pBndWxyeEew9hzMPvC5M3znYW-cuL_zKtwu3d3nk1iQH2RR8dVZiLoFpQ written in token.json file
+2021-10-20 09:02:05,924 8672 [main] INFO  tyss_JobPortalWeb.TC003_GetAllJobDescription - Succesully Recieved All The Job Descriptions
+2021-10-20 09:02:07,782 10530 [main] INFO  tyss_JobPortalWeb.TC004_AddJobDetails - Job Created With Job Title Automation
+2021-10-20 09:02:07,782 10530 [main] INFO  tyss_JobPortalWeb.TC004_AddJobDetails - Job Details added Sucessfully
+2021-10-20 09:02:09,709 12457 [main] INFO  tyss_JobPortalWeb.TC005_FindJobDescription - Able to find the job details with jobId 2021 and jobTitle Automation
+2021-10-20 09:02:12,884 15632 [main] INFO  tyss_JobPortalWeb.TC007_Update_PATCH_Details - Job Details Updated Successfully with jobTitle SDET Automation and jobDescription Automation

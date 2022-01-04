@@ -1,0 +1,16 @@
+{
+  "experience": [
+    "5 Years"
+  ],
+  "jobDescription": "SDET ENG",
+  "jobId": 2021,
+  "jobTitle": "Automation",
+  "project": [
+    {
+      "projectName": "HCL",
+      "technology": [
+        "APPIUM"
+      ]
+    }
+  ]
+}

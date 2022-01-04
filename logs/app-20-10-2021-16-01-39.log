@@ -1,0 +1,4 @@
+2021-10-20 16:01:39,246 241  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-20 16:01:39,250 245  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_20_2021_16_01_39
+2021-10-20 16:01:39,342 337  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-20 16:01:43,050 4045 [main] INFO  tyss_JobPortalWebPractice.TC005_FindJobDescription - Able to find the job details with jobId 2021 and jobTitle Automation

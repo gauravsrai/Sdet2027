@@ -1,0 +1,4 @@
+2021-10-21 16:51:33,114 221  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-21 16:51:33,117 224  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_21_2021_16_51_33
+2021-10-21 16:51:33,207 314  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-21 16:51:36,795 3902 [main] INFO  tyss_JobPortalWebPractice2.TC001_SignUp - Gaurav registered successfully

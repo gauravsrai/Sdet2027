@@ -1,0 +1,16 @@
+{
+  "experience": [
+    "string"
+  ],
+  "jobDescription": "string",
+  "jobId": 0,
+  "jobTitle": "string",
+  "project": [
+    {
+      "projectName": "string",
+      "technology": [
+        "string"
+      ]
+    }
+  ]
+}

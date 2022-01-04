@@ -1,0 +1,6 @@
+2021-10-19 15:43:49,707 245  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-19 15:43:49,937 475  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-19 15:43:49,939 477  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-G:\DemoMavenProjectPracice/reports/Automation Report- 10_19_2021_15_43_49
+2021-10-19 15:43:50,031 569  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-19 15:43:53,845 4383 [main] INFO  tyss_JobPortalWeb.TC001_SignUp - Gaurav register successfully Response is macthing
+2021-10-19 15:43:56,726 7264 [main] INFO  tyss_JobPortalWeb.TC002_Authentication - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJHYXVyYXYiLCJleHAiOjE2MzQ2NDU2NDEsImlhdCI6MTYzNDYzODQ0MX0.HaOhZRNX1iXeKB3NbyPMynUs4bv_mPXSRdrZCrMsmVY6T34lNwzwNg6rpPFAblkIjIWvquATBqF1D9tGR9-1TQ Token is generated
